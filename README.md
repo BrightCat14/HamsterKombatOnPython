@@ -1,1 +1,2 @@
-Just a copy of hamster kombat in telegram
+# hamster kombat on python
+## Copy of the game in telegram called "hamster kombat"
